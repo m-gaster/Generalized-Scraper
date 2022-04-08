@@ -14,7 +14,7 @@ import time
 
 from update_checklist import update_checklist_table
 from scraping_unique_to_this_proj import scrape_and_save
-# "." is relative import :)
+# "." is relative import
 
 
 def scrape_and_update_checklist(checklist,
