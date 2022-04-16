@@ -10,4 +10,4 @@ def scrape_and_save(URL_to_scrape:str,
     This function grabs data from the URL.
     MUST RETURN `True` if the scrape didn't work (i.e., if we want to log np.nan under "scraped_bool" field in 'checklist')
     """
-    ... # scrape and save
+    print('scrape_and_save worked') # scrape and save
